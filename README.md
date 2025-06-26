@@ -27,3 +27,8 @@ This project simulates a basic SOC environment using the Elastic Stack for centr
 - Learned how to create meaningful visualizations for security events.
 - Developed foundational understanding of log parsing and event correlation.
 - Practiced detection engineering techniques used in real SOCs.
+
+## References
+- https://www.elastic.co/guide/
+- https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon
+- MITRE ATT&CK Framework – https://attack.mitre.org/
